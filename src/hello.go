@@ -1,3 +1,7 @@
+//
+//  https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/integers
+//  11/18/2021
+//
 package main
 
 import "fmt"
