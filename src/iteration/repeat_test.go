@@ -6,7 +6,7 @@ import (
 )
 
 func TestRepeat(t *testing.T) {
-	repeated := repeat("a", 5) //lower case r.  : P
+	repeated := repeat("a", 5) //lower case r.   : P
 	expected := "aaaaa"
 
 	if repeated != expected {
